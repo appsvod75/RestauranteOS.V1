@@ -1,0 +1,25 @@
+{
+    "name": "Street Taco | Next Gen",
+    "short_name": "Street Taco",
+    "description": "Street Taco | Next Gen POS",
+    "theme_color": "#111827",
+    "background_color": "#111827",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/",
+    "gcm_sender_id": "103953800507",
+    "icons": [
+        {
+            "src": "icon.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "icon.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
